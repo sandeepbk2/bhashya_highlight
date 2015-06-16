@@ -1439,7 +1439,10 @@
 	<span id="BG_C02_V16_B08_W08">भाव</span> 
 	<span id="BG_C02_V16_B08_W09">इति</span> । 
 	<span id="BG_C02_V16_B08_W10">तथा</span> 
-	<span id="BG_C02_V16_B08_W11">सतश्च</span> 
+	<span id="BG_C02_V16_B08_W11">
+		<span id="BG_C02_V16_B08_W11_L01">सत</span>
+		<span id="BG_C02_V16_B08_W11_L02">श्च</span>
+	</span> 
 	<span id="BG_C02_V16_B08_W12">आत्मनः</span> 
 	<span id="BG_C02_V16_B08_W13">अभावः</span> 
 	<span id="BG_C02_V16_B08_W14">अविद्यमानता</span> 
@@ -1895,7 +1898,10 @@
 	<span id="BG_C02_V20_B01_W22">विनाशलक्षणा</span> 
 	<span id="BG_C02_V20_B01_W23">विक्रिया</span> 
 	<span id="BG_C02_V20_B01_W24">प्रतिषिध्यते</span> । 
-	<span id="BG_C02_V20_B01_W25">कदाचिच्छब्दः</span> 
+	<span id="BG_C02_V20_B01_W25">
+		<span id="BG_C02_V20_B01_W25_L01">कदाचि</span>
+		<span id="BG_C02_V20_B01_W25_L02">च्छब्दः</span>
+	</span> 
 	<span id="BG_C02_V20_B01_W26">सर्वविक्रियाप्रतिषेधैः</span> 
 	<span id="BG_C02_V20_B01_W27">सम्बध्यते</span> — 
 	<span id="BG_C02_V20_B01_W28">न</span> 
@@ -1958,7 +1964,10 @@
 	<span id="BG_C02_V20_B01_W85">न</span> 
 	<span id="BG_C02_V20_B01_W86">म्रियते</span> 
 	<span id="BG_C02_V20_B01_W87">तस्मात्</span> 
-	<span id="BG_C02_V20_B01_W88">नित्यश्च</span> । 
+	<span id="BG_C02_V20_B01_W88">
+		<span id="BG_C02_V20_B01_W88_L01">नित्य</span>
+		<span id="BG_C02_V20_B01_W88_L02">श्च</span>
+	</span> । 
 	<span id="BG_C02_V20_B01_W89">यद्यपि</span> 
 	<span id="BG_C02_V20_B01_W90">आद्यन्तयोर्विक्रिययोः</span> 
 	<span id="BG_C02_V20_B01_W91">प्रतिषेधे</span> 
