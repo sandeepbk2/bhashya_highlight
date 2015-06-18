@@ -3867,7 +3867,10 @@
 	<span id="BG_C02_V46_B01_W13">सर्वः</span> 
 	<span id="BG_C02_V46_B01_W14">अर्थः</span> 
 	<span id="BG_C02_V46_B01_W15">सर्वतः</span> 
-	<span id="BG_C02_V46_B01_W16">सम्प्लुतोदकेऽपि</span> 
+	<span id="BG_C02_V46_B01_W16">
+		<span id="BG_C02_V46_B01_W16_L01">सम्प्लुतोदके</span>
+		<span id="BG_C02_V46_B01_W16_L02">ऽपि</span>
+	</span> 
 	<span id="BG_C02_V46_B01_W17">यः</span> 
 	<span id="BG_C02_V46_B01_W18">अर्थः</span> 
 	<span id="BG_C02_V46_B01_W19">तावानेव</span> 
@@ -4131,7 +4134,10 @@
 	<span id="BG_C02_V50_B01_W15">सत्त्वशुद्धिज्ञानप्राप्तिद्वारेण</span> 
 	<span id="BG_C02_V50_B01_W16">यतः</span>, 
 	<span id="BG_C02_V50_B01_W17">तस्मात्</span> 
-	<span id="BG_C02_V50_B01_W18">समत्वबुद्धियोगाय</span> 
+	<span id="BG_C02_V50_B01_W18">
+		<span id="BG_C02_V50_B01_W18_L01">समत्वबुद्धि</span>
+		<span id="BG_C02_V50_B01_W18_L02">योगाय</span>
+	</span> 
 	<span id="BG_C02_V50_B01_W19">युज्यस्व</span> 
 	<span id="BG_C02_V50_B01_W20">घटस्व</span> । 
 	<span id="BG_C02_V50_B01_W21">योगो</span> 
@@ -4634,7 +4640,10 @@
 	<span id="BG_C02_V59_B01_W27">रसिकः</span> 
 	<span id="BG_C02_V59_B01_W28">रसज्ञः</span>, 
 	<span id="BG_C02_V59_B01_W29">इत्यादिदर्शनात्</span> । 
-	<span id="BG_C02_V59_B01_W30">सोऽपि</span> 
+	<span id="BG_C02_V59_B01_W30">
+		<span id="BG_C02_V59_B01_W30_L01">सो</span>
+		<span id="BG_C02_V59_B01_W30_L02">ऽपि</span>
+	</span> 
 	<span id="BG_C02_V59_B01_W31">रसो</span> 
 	<span id="BG_C02_V59_B01_W32">रञ्जनारूपः</span> 
 	<span id="BG_C02_V59_B01_W33">सूक्ष्मः</span> 
