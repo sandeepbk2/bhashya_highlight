@@ -6520,8 +6520,11 @@
 	<span id="BG_C03_V04_B04_W21">अत</span> 
 	<span id="BG_C03_V04_B04_W22">आह</span> — 
 	<span id="BG_C03_V04_B04_W23">न</span> 
-	<span id="BG_C03_V04_B04_W24">च</span> 
-	<span id="BG_C03_V04_B04_W25">संन्यसनादेवेति</span> । 
+	<span id="BG_C03_V04_B04_W24">च</span>
+	<span id="BG_C03_V04_B04_W25">
+		<span id="BG_C03_V04_B04_W25_L01">संन्यसनादेवे</span> 
+		<span id="BG_C03_V04_B04_W25_L02">ति</span> 
+	</span> । 
 	<span id="BG_C03_V04_B04_W26">नापि</span> 
 	<span id="BG_C03_V04_B04_W27">संन्यसनादेव</span> 
 	<span id="BG_C03_V04_B04_W28">केवलात्</span> 
@@ -6644,7 +6647,10 @@
 	<span id="BG_C03_V07_B01_W02">पुनः</span> 
 	<span id="BG_C03_V07_B01_W03">कर्मण्यधिकृतः</span> 
 	<span id="BG_C03_V07_B01_W04">अज्ञः</span> 
-	<span id="BG_C03_V07_B01_W05">बुद्धीन्द्रियाणि</span> 
+	<span id="BG_C03_V07_B01_W05">
+		<span id="BG_C03_V07_B01_W05_L01">बुद्धी</span>
+		<span id="BG_C03_V07_B01_W05_L02">न्द्रियाणि</span>
+	</span> 
 	<span id="BG_C03_V07_B01_W06">मनसा</span> 
 	<span id="BG_C03_V07_B01_W07">नियम्य</span> 
 	<span id="BG_C03_V07_B01_W08">आरभते</span> 
@@ -7044,7 +7050,10 @@
 	<span id="BG_C03_V16_B01_W02">इत्थम्</span> 
 	<span id="BG_C03_V16_B01_W03">ईश्वरेण</span> 
 	<span id="BG_C03_V16_B01_W04">वेदयज्ञपूर्वकं</span> 
-	<span id="BG_C03_V16_B01_W05">जगच्चक्रं</span> 
+	<span id="BG_C03_V16_B01_W05">
+		<span id="BG_C03_V16_B01_W05_L01">जग</span>
+		<span id="BG_C03_V16_B01_W05_L02">च्चक्रं</span>
+	</span> 
 	<span id="BG_C03_V16_B01_W06">प्रवर्तितं</span> 
 	<span id="BG_C03_V16_B01_W07">न</span> 
 	<span id="BG_C03_V16_B01_W08">अनुवर्तयति</span> 
@@ -7186,7 +7195,10 @@
 	<span id="BG_C03_V17_B01_W08">विषयेषु</span> 
 	<span id="BG_C03_V17_B01_W09">यस्य</span> 
 	<span id="BG_C03_V17_B01_W10">सः</span> 
-	<span id="BG_C03_V17_B01_W11">आत्मरतिरेव</span> 
+	<span id="BG_C03_V17_B01_W11">
+		<span id="BG_C03_V17_B01_W11_L01">आत्मरति</span>
+		<span id="BG_C03_V17_B01_W11_L02">रेव</span>
+	</span> 
 	<span id="BG_C03_V17_B01_W12">स्यात्</span> 
 	<span id="BG_C03_V17_B01_W13">भवेत्</span> 
 	<span id="BG_C03_V17_B01_W14">आत्मतृप्तश्च</span> 
