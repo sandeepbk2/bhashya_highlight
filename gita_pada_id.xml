@@ -2741,7 +2741,10 @@
 	<span id="BG_C02_V23_B01_W47">आत्मानं</span> 
 	<span id="BG_C02_V23_B01_W48">न</span> 
 	<span id="BG_C02_V23_B01_W49">शोषयति</span> 
-	<span id="BG_C02_V23_B01_W50">मारुतोऽपि</span> ॥ 
+	<span id="BG_C02_V23_B01_W50">मारुतोऽपि
+		<span id="BG_C02_V23_B01_W50_L01">मारुतो</span>
+		<span id="BG_C02_V23_B01_W50_L02">ऽपि</span>
+	</span> ॥ 
 </div>
 <div class="bhashya" id="BG_C02_V23_B02">
 	<span id="BG_C02_V23_B02_W01">यतः</span> 
@@ -2951,9 +2954,15 @@
 	<span id="BG_C02_V27_B01_W09">जन्म</span> 
 	<span id="BG_C02_V27_B01_W10">मृतस्य</span> 
 	<span id="BG_C02_V27_B01_W11">च</span> । 
-	<span id="BG_C02_V27_B01_W12">तस्मादपरिहार्योऽयं</span> 
+	<span id="BG_C02_V27_B01_W12">
+		<span id="BG_C02_V27_B01_W12_L01">तस्माद</span>
+		<span id="BG_C02_V27_B01_W12_L02">परिहार्योऽयं</span>
+	</span> 
 	<span id="BG_C02_V27_B01_W13">जन्ममरणलक्षणोऽर्थः</span> । 
-	<span id="BG_C02_V27_B01_W14">तस्मिन्नपरिहार्येऽर्थे</span> 
+	<span id="BG_C02_V27_B01_W14">
+		<span id="BG_C02_V27_B01_W14_L01">तस्मि</span>
+		<span id="BG_C02_V27_B01_W14_L02">न्नपरिहार्येऽर्थे</span>
+	</span> 
 	<span id="BG_C02_V27_B01_W15">न</span> 
 	<span id="BG_C02_V27_B01_W16">त्वं</span> 
 	<span id="BG_C02_V27_B01_W17">शोचितुमर्हसि</span> ॥ 
@@ -3059,8 +3068,13 @@
 	<span id="BG_C02_V29_B01_W22">शृणोति</span> । 
 	<span id="BG_C02_V29_B01_W23">श्रुत्वा</span> 
 	<span id="BG_C02_V29_B01_W24">दृष्ट्वा</span> 
-	<span id="BG_C02_V29_B01_W25">उक्त्वापि</span> 
-	<span id="BG_C02_V29_B01_W26">एनमात्मानं</span> 
+	<span id="BG_C02_V29_B01_W25">
+		<span id="BG_C02_V29_B01_W25_L01">उक्त्वापि</span>
+		<span id="BG_C02_V29_B01_W25_L02">क्त्वापि</span>
+	</span> 
+		<span id="BG_C02_V29_B01_W26_L01">एन</span>
+		<span id="BG_C02_V29_B01_W26_L02">मात्मानं</span>
+	</span> 
 	<span id="BG_C02_V29_B01_W27">वेद</span> 
 	<span id="BG_C02_V29_B01_W28">न</span> 
 	<span id="BG_C02_V29_B01_W29">चैव</span> 
@@ -3097,7 +3111,10 @@
 	<span id="BG_C02_V30_B01_W06">अवध्यः</span> 
 	<span id="BG_C02_V30_B01_W07">निरवयवत्वान्नित्यत्वाच्च</span> 
 	<span id="BG_C02_V30_B01_W08">तत्र</span> 
-	<span id="BG_C02_V30_B01_W09">अवध्योऽयं</span> 
+	<span id="BG_C02_V30_B01_W09">
+		<span id="BG_C02_V30_B01_W09_L01">अवध्यो</span>
+		<span id="BG_C02_V30_B01_W09_L02">ऽयं</span>
+	</span> 
 	<span id="BG_C02_V30_B01_W10">देहे</span> 
 	<span id="BG_C02_V30_B01_W11">शरीरे</span> 
 	<span id="BG_C02_V30_B01_W12">सर्वस्य</span> 
@@ -3148,7 +3165,10 @@
 	<span id="BG_C02_V31_B01_W09">न</span> 
 	<span id="BG_C02_V31_B01_W10">विकम्पितुं</span> 
 	<span id="BG_C02_V31_B01_W11">प्रचलितुम्</span> 
-	<span id="BG_C02_V31_B01_W12">नार्हसि</span> 
+	<span id="BG_C02_V31_B01_W12">
+		<span id="BG_C02_V31_B01_W12_L01">ना</span>
+		<span id="BG_C02_V31_B01_W12_L02">र्हसि</span>
+	</span> 
 	<span id="BG_C02_V31_B01_W13">क्षत्रियस्य</span> 
 	<span id="BG_C02_V31_B01_W14">स्वाभाविकाद्धर्मात्</span> 
 	<span id="BG_C02_V31_B01_W15">आत्मस्वाभाव्यादित्यभिप्रायः</span> । 
@@ -3304,7 +3324,10 @@
 </div>
 <div class="bhashya" id="BG_C02_V36_B01">
 	<span id="BG_C02_V36_B01_W01">अवाच्यवादान्</span> 
-	<span id="BG_C02_V36_B01_W02">अवक्तव्यवादांश्च</span> 
+	<span id="BG_C02_V36_B01_W02">
+		<span id="BG_C02_V36_B01_W02_L01">अवक्तव्यवादां</span>
+		<span id="BG_C02_V36_B01_W02_L02">श्च</span>
+	</span> 
 	<span id="BG_C02_V36_B01_W03">बहून्</span> 
 	<span id="BG_C02_V36_B01_W04">अनेकप्रकारान्</span> 
 	<span id="BG_C02_V36_B01_W05">वदिष्यन्ति</span> 
@@ -3507,7 +3530,10 @@
 	<span id="BG_C02_V40_B01_W07">प्रारम्भः</span> 
 	<span id="BG_C02_V40_B01_W08">तस्य</span> 
 	<span id="BG_C02_V40_B01_W09">नाशः</span> 
-	<span id="BG_C02_V40_B01_W10">नास्ति</span> 
+	<span id="BG_C02_V40_B01_W10">
+		<span id="BG_C02_V40_B01_W10_L01">ना</span>
+		<span id="BG_C02_V40_B01_W10_L02">स्ति</span>
+	</span> 
 	<span id="BG_C02_V40_B01_W11">यथा</span> 
 	<span id="BG_C02_V40_B01_W12">कृष्यादेः</span> । 
 	<span id="BG_C02_V40_B01_W13">योगविषये</span> 
@@ -3515,7 +3541,10 @@
 	<span id="BG_C02_V40_B01_W15">न</span> 
 	<span id="BG_C02_V40_B01_W16">अनैकान्तिकफलत्वमित्यर्थः</span> । 
 	<span id="BG_C02_V40_B01_W17">किञ्च</span> — 
-	<span id="BG_C02_V40_B01_W18">नापि</span> 
+	<span id="BG_C02_V40_B01_W18">
+		<span id="BG_C02_V40_B01_W18_L01">ना</span>
+		<span id="BG_C02_V40_B01_W18_L02">पि</span>
+	</span> 
 	<span id="BG_C02_V40_B01_W19">चिकित्सावत्</span> 
 	<span id="BG_C02_V40_B01_W20">प्रत्यवायः</span> 
 	<span id="BG_C02_V40_B01_W21">विद्यते</span> 
