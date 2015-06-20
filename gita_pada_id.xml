@@ -8871,7 +8871,7 @@
 	<span id="BG_C04_V07_B01_W05">ग्लानिः</span> 
 	<span id="BG_C04_V07_B01_W06">हानिः</span> 
 	<span id="BG_C04_V07_B01_W07">वर्णाश्रमादिलक्षणस्य</span> 
-	प्राणिनामभ्युदयनिःश्रेयससाध
+	<span id="BG_C04_V07_B01_W08">प्राणिनामभ्युदयनिःश्रेयससाध</span> 
 </div>
 <div class="bhashya" id="BG_C04_V07_B02">
 	<span id="BG_C04_V07_B02_W01">नस्य</span> 
@@ -13118,7 +13118,10 @@
 	<span id="BG_C05_V07_B01_W05">विशुद्धसत्त्वः</span>, 
 	<span id="BG_C05_V07_B01_W06">विजितात्मा</span> 
 	<span id="BG_C05_V07_B01_W07">विजितदेहः</span>, 
-	<span id="BG_C05_V07_B01_W08">जितेन्द्रियश्च</span>, 
+	<span id="BG_C05_V07_B01_W08">
+		<span id="BG_C05_V07_B01_W08_L01">जितेन्द्रिय</span>
+		<span id="BG_C05_V07_B01_W08_L02">श्च</span>
+	</span>, 
 	<span id="BG_C05_V07_B01_W09">सर्वभूतात्मभूतात्मा</span> 
 	<span id="BG_C05_V07_B01_W10">सर्वेषां</span> 
 	<span id="BG_C05_V07_B01_W11">ब्रह्मादीनां</span> 
