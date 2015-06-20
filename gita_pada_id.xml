@@ -14049,7 +14049,10 @@
 	<span id="BG_C05_V20_B01_W39">असंमूढः</span> 
 	<span id="BG_C05_V20_B01_W40">संमोहवर्जितश्च</span> 
 	<span id="BG_C05_V20_B01_W41">स्यात्</span> 
-	<span id="BG_C05_V20_B01_W42">यथोक्तब्रह्मवित्</span> 
+	<span id="BG_C05_V20_B01_W42">
+		<span id="BG_C05_V20_B01_W42_L01">यथोक्त</span>
+		<span id="BG_C05_V20_B01_W42_L02">ब्रह्मवित्</span>
+	</span> 
 	<span id="BG_C05_V20_B01_W43">ब्रह्मणि</span> 
 	<span id="BG_C05_V20_B01_W44">स्थितः</span>, 
 	<span id="BG_C05_V20_B01_W45">अकर्मकृत्</span> 
