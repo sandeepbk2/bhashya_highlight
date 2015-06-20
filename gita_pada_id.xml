@@ -8814,7 +8814,10 @@
 	<span id="BG_C04_V06_B01_W09">भूतानां</span> 
 	<span id="BG_C04_V06_B01_W10">ब्रह्मादिस्तम्बपर्यन्तानाम्</span> 
 	<span id="BG_C04_V06_B01_W11">ईश्वरः</span> 
-	<span id="BG_C04_V06_B01_W12">ईशनशीलोऽपि</span> 
+	<span id="BG_C04_V06_B01_W12">
+		<span id="BG_C04_V06_B01_W12_L01">ईशनशीलो</span>
+		<span id="BG_C04_V06_B01_W12_L02">ऽपि</span>
+	</span> 
 	<span id="BG_C04_V06_B01_W13">सन्</span> , 
 	<span id="BG_C04_V06_B01_W14">प्रकृतिं</span> 
 	<span id="BG_C04_V06_B01_W15">स्वां</span> 
@@ -9193,7 +9196,10 @@
 	<span id="BG_C04_V12_B01_W54">तेषां</span> 
 	<span id="BG_C04_V12_B01_W55">च</span> 
 	<span id="BG_C04_V12_B01_W56">वर्णाश्रमाद्यधिकारिकर्मणां</span> 
-	<span id="BG_C04_V12_B01_W57">फलसिद्धिः</span> 
+	<span id="BG_C04_V12_B01_W57">
+		<span id="BG_C04_V12_B01_W57_L01">फल</span>
+		<span id="BG_C04_V12_B01_W57_L02">सिद्धिः</span>
+	</span> 
 	<span id="BG_C04_V12_B01_W58">क्षिप्रं</span> 
 	<span id="BG_C04_V12_B01_W59">भवति</span> । 
 	<span id="BG_C04_V12_B01_W60">कर्मजा</span> 
