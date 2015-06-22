@@ -15414,7 +15414,7 @@
 	<span id="BG_C06_V05_B01_W11">योगारूढतामापादयेदित्यर्थः</span> । 
 	<span id="BG_C06_V05_B01_W12">न</span> 
 	<span id="BG_C06_V05_B01_W13">आत्मानम्</span> 
-	<span id="BG_C06_V05_B01_W14">अवसाधयेत्</span> 
+	<span id="BG_C06_V05_B01_W14">अवसादयेत्</span> 
 	<span id="BG_C06_V05_B01_W15">न</span> 
 	<span id="BG_C06_V05_B01_W16">अधः</span> 
 	<span id="BG_C06_V05_B01_W17">नयेत्</span> , 
@@ -15461,7 +15461,10 @@
 	<span id="BG_C06_V05_B01_W58">युक्तमेव</span> 
 	<span id="BG_C06_V05_B01_W59">अवधारणम्</span> ‘
 	<span id="BG_C06_V05_B01_W60">आत्मैव</span> 
-	<span id="BG_C06_V05_B01_W61">रिपुरात्मनः</span>’ 
+	<span id="BG_C06_V05_B01_W61">
+		<span id="BG_C06_V05_B01_W61_L01">रिपु</span>
+		<span id="BG_C06_V05_B01_W61_L02">रात्मनः</span>
+	</span>’ 
 	<span id="BG_C06_V05_B01_W62">इति</span> ॥ 
 </div>
 <div class="intro_bhashya" id="BG_C06_I12">
@@ -16744,7 +16747,10 @@
 	<span id="BG_C06_V32_B01_W31">सर्वप्राणिनां</span> 
 	<span id="BG_C06_V32_B01_W32">सुखम्</span> 
 	<span id="BG_C06_V32_B01_W33">अनुकूलम्</span> । 
-	<span id="BG_C06_V32_B01_W34">वाशब्दः</span> 
+	<span id="BG_C06_V32_B01_W34">
+		<span id="BG_C06_V32_B01_W34_L01">वा</span>
+		<span id="BG_C06_V32_B01_W34_L02">शब्दः</span>
+	</span> 
 	<span id="BG_C06_V32_B01_W35">चार्थे</span> । 
 	<span id="BG_C06_V32_B01_W36">यदि</span> 
 	<span id="BG_C06_V32_B01_W37">वा</span> 
