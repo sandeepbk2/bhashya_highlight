@@ -18191,7 +18191,10 @@
 	<span id="BG_C07_V16_B01_W21">धनकामः</span>, 
 	<span id="BG_C07_V16_B01_W22">ज्ञानी</span> 
 	<span id="BG_C07_V16_B01_W23">विष्णोः</span> 
-	<span id="BG_C07_V16_B01_W24">तत्त्वविच्च</span> 
+	<span id="BG_C07_V16_B01_W24">
+		<span id="BG_C07_V16_B01_W24_L01">तत्त्ववि</span>
+		<span id="BG_C07_V16_B01_W24_L02">च्च</span>
+	</span> 
 	<span id="BG_C07_V16_B01_W25">हे</span> 
 	<span id="BG_C07_V16_B01_W26">भरतर्षभ</span> ॥ 
 </div>
@@ -18424,7 +18427,10 @@
 	<span id="BG_C07_V21_B01_W03">कामी</span> 
 	<span id="BG_C07_V21_B01_W04">यां</span> 
 	<span id="BG_C07_V21_B01_W05">यां</span> 
-	<span id="BG_C07_V21_B01_W06">देवतातनुं</span> 
+	<span id="BG_C07_V21_B01_W06">
+		<span id="BG_C07_V21_B01_W06_L01">देवता</span>
+		<span id="BG_C07_V21_B01_W06_L02">तनुं</span>
+	</span> 
 	<span id="BG_C07_V21_B01_W07">श्रद्धया</span> 
 	<span id="BG_C07_V21_B01_W08">संयुक्तः</span> 
 	<span id="BG_C07_V21_B01_W09">भक्तश्च</span> 
