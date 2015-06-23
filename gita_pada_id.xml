@@ -17980,7 +17980,10 @@
 	<span id="BG_C07_V12_B01_W07">राजसाः</span> 
 	<span id="BG_C07_V12_B01_W08">रजोनिर्वृत्ताः</span>, 
 	<span id="BG_C07_V12_B01_W09">तामसाः</span> 
-	<span id="BG_C07_V12_B01_W10">तमोनिर्वृत्ताश्च</span>, 
+	<span id="BG_C07_V12_B01_W10">
+		<span id="BG_C07_V12_B01_W10_L01">तमोनिर्वृत्ता</span>
+		<span id="BG_C07_V12_B01_W10_L02">श्च</span>
+	</span>, 
 	<span id="BG_C07_V12_B01_W11">ये</span> 
 	<span id="BG_C07_V12_B01_W12">केचित्</span> 
 	<span id="BG_C07_V12_B01_W13">प्राणिनां</span> 
