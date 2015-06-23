@@ -19446,7 +19446,10 @@
 	<span id="BG_C08_V11_B01_W35">ते</span> 
 	<span id="BG_C08_V11_B01_W36">वीतरागाः</span> । 
 	<span id="BG_C08_V11_B01_W37">यच्च</span> 
-	<span id="BG_C08_V11_B01_W38">अक्षरमिच्छन्तः</span> — 
+	<span id="BG_C08_V11_B01_W38">
+		<span id="BG_C08_V11_B01_W38_L01">अक्षर</span>
+		<span id="BG_C08_V11_B01_W38_L02">मिच्छन्तः</span>
+	</span> — 
 	<span id="BG_C08_V11_B01_W39">ज्ञातुम्</span> 
 	<span id="BG_C08_V11_B01_W40">इति</span> 
 	<span id="BG_C08_V11_B01_W41">वाक्यशेषः</span> — 
@@ -19991,7 +19994,10 @@
 	<span id="BG_C08_V20_B01_W04">कुतः</span> ? 
 	<span id="BG_C08_V20_B01_W05">तस्मात्</span> 
 	<span id="BG_C08_V20_B01_W06">पूर्वोक्तात्</span> । 
-	<span id="BG_C08_V20_B01_W07">तु—शब्दः</span> 
+	<span id="BG_C08_V20_B01_W07">
+		<span id="BG_C08_V20_B01_W07_L01">तु</span>
+		<span id="BG_C08_V20_B01_W07_L02">—शब्दः</span>
+	</span> 
 	<span id="BG_C08_V20_B01_W08">अक्षरस्य</span> 
 	<span id="BG_C08_V20_B01_W09">विवक्षितस्य</span> 
 	<span id="BG_C08_V20_B01_W10">अव्यक्तात्</span> 
@@ -20192,7 +20198,10 @@
 	<span id="BG_C08_V24_B01_W02">कालाभिमानिनी</span> 
 	<span id="BG_C08_V24_B01_W03">देवता</span> । 
 	<span id="BG_C08_V24_B01_W04">तथा</span> 
-	<span id="BG_C08_V24_B01_W05">ज्योतिरपि</span> 
+	<span id="BG_C08_V24_B01_W05">
+		<span id="BG_C08_V24_B01_W05_L01">ज्योति</span>
+		<span id="BG_C08_V24_B01_W05_L02">रपि</span>
+	</span> 
 	<span id="BG_C08_V24_B01_W06">देवतैव</span> 
 	<span id="BG_C08_V24_B01_W07">कालाभिमानिनी</span> । 
 	<span id="BG_C08_V24_B01_W08">अथवा</span>, 
