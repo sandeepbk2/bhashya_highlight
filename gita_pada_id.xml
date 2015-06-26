@@ -23401,7 +23401,10 @@
 	<span id="BG_C10_V29_B01_W13">पितॄणाम्</span> 
 	<span id="BG_C10_V29_B01_W14">अर्यमा</span> 
 	<span id="BG_C10_V29_B01_W15">नाम</span> 
-	<span id="BG_C10_V29_B01_W16">पितृराजश्च</span> 
+	<span id="BG_C10_V29_B01_W16">
+		<span id="BG_C10_V29_B01_W16_L01">पितृराज</span>
+		<span id="BG_C10_V29_B01_W16_L02">श्च</span>
+	</span> 
 	<span id="BG_C10_V29_B01_W17">अस्मि</span> । 
 	<span id="BG_C10_V29_B01_W18">यमः</span> 
 	<span id="BG_C10_V29_B01_W19">संयमतां</span> 
@@ -23561,7 +23564,10 @@
 	<span id="BG_C10_V34_B01_W22">उद्भवः</span> 
 	<span id="BG_C10_V34_B01_W23">उत्कर्षः</span> 
 	<span id="BG_C10_V34_B01_W24">अभ्युदयः</span> 
-	<span id="BG_C10_V34_B01_W25">तत्प्राप्तिहेतुश्च</span> 
+	<span id="BG_C10_V34_B01_W25">
+		<span id="BG_C10_V34_B01_W25_L01">तत्प्राप्तिहेतु</span>
+		<span id="BG_C10_V34_B01_W25_L02">श्च</span>
+	</span> 
 	<span id="BG_C10_V34_B01_W26">अहम्</span> । 
 	<span id="BG_C10_V34_B01_W27">केषाम्</span> ? 
 	<span id="BG_C10_V34_B01_W28">भविष्यतां</span> 
