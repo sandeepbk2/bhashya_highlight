@@ -24782,7 +24782,10 @@
 	<span id="BG_C11_V22_B01_W05">साध्याः</span> 
 	<span id="BG_C11_V22_B01_W06">रुद्रादयः</span> 
 	<span id="BG_C11_V22_B01_W07">गणाः</span> 
-	<span id="BG_C11_V22_B01_W08">विश्वेदेवाः</span> 
+	<span id="BG_C11_V22_B01_W08">
+		<span id="BG_C11_V22_B01_W08_L01">विश्वे</span>
+		<span id="BG_C11_V22_B01_W08_L02">देवाः</span>
+	</span> 
 	<span id="BG_C11_V22_B01_W09">अश्विनौ</span> 
 	<span id="BG_C11_V22_B01_W10">च</span> 
 	<span id="BG_C11_V22_B01_W11">देवौ</span> 
