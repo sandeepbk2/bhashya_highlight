@@ -29466,7 +29466,10 @@
 	<span id="BG_C13_V03_B01_W45">शक्तयः</span> 
 	<span id="BG_C13_V03_B01_W46">यस्य</span> 
 	<span id="BG_C13_V03_B01_W47">सः</span> 
-	<span id="BG_C13_V03_B01_W48">यत्प्रभावश्च</span> । 
+	<span id="BG_C13_V03_B01_W48">
+		<span id="BG_C13_V03_B01_W48_L01">यत्प्रभाव</span>
+		<span id="BG_C13_V03_B01_W48_L02">श्च</span>
+	</span> । 
 	<span id="BG_C13_V03_B01_W49">तत्</span> 
 	<span id="BG_C13_V03_B01_W50">क्षेत्रक्षेत्रज्ञयोः</span> 
 	<span id="BG_C13_V03_B01_W51">याथात्म्यं</span> 
@@ -30757,7 +30760,10 @@
 	<span id="BG_C13_V15_B01_W16">कृत्वा</span> 
 	<span id="BG_C13_V15_B01_W17">अन्तः</span> 
 	<span id="BG_C13_V15_B01_W18">उच्यते</span> । ‘
-	<span id="BG_C13_V15_B01_W19">बहिरन्तश्च</span>’ 
+	<span id="BG_C13_V15_B01_W19">
+		<span id="BG_C13_V15_B01_W19_L01">बहिरन्त</span>
+		<span id="BG_C13_V15_B01_W19_L02">श्च</span>
+	</span>’ 
 	<span id="BG_C13_V15_B01_W20">इत्युक्ते</span> 
 	<span id="BG_C13_V15_B01_W21">मध्ये</span> 
 	<span id="BG_C13_V15_B01_W22">अभावे</span> 
@@ -30879,7 +30885,10 @@
 </div>
 <div class="bhashya" id="BG_C13_V17_B01">
 	<span id="BG_C13_V17_B01_W01">ज्योतिषाम्</span> 
-	<span id="BG_C13_V17_B01_W02">आदित्यादीनामपि</span> 
+	<span id="BG_C13_V17_B01_W02">
+		<span id="BG_C13_V17_B01_W02_L01">आदित्यादीना</span>
+		<span id="BG_C13_V17_B01_W02_L02">मपि</span>
+	</span> 
 	<span id="BG_C13_V17_B01_W03">तत्</span> 
 	<span id="BG_C13_V17_B01_W04">ज्ञेयं</span> 
 	<span id="BG_C13_V17_B01_W05">ज्योतिः</span> । 
