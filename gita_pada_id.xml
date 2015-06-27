@@ -26309,7 +26309,10 @@
 	<span id="BG_C11_V50_B01_W02">एवम्</span> 
 	<span id="BG_C11_V50_B01_W03">अर्जुनं</span> 
 	<span id="BG_C11_V50_B01_W04">वासुदेवः</span> 
-	<span id="BG_C11_V50_B01_W05">तथाभूतं</span> 
+	<span id="BG_C11_V50_B01_W05">
+		<span id="BG_C11_V50_B01_W05_L01">तथा</span>
+		<span id="BG_C11_V50_B01_W05_L02">भूतं</span>
+	</span> 
 	<span id="BG_C11_V50_B01_W06">वचनम्</span> 
 	<span id="BG_C11_V50_B01_W07">उक्त्वा</span>, 
 	<span id="BG_C11_V50_B01_W08">स्वकं</span> 
