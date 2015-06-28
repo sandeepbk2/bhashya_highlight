@@ -33055,7 +33055,10 @@
 <div class="bhashya" id="BG_C14_V02_B01">
 	<span id="BG_C14_V02_B01_W01">इदं</span> 
 	<span id="BG_C14_V02_B01_W02">ज्ञानं</span> 
-	<span id="BG_C14_V02_B01_W03">यथोक्तमुपाश्रित्य</span>, 
+	<span id="BG_C14_V02_B01_W03">
+		<span id="BG_C14_V02_B01_W03_L01">यथोक्त</span>
+		<span id="BG_C14_V02_B01_W03_L02">मुपाश्रित्य</span>
+	</span>, 
 	<span id="BG_C14_V02_B01_W04">ज्ञानसाधनम्</span> 
 	<span id="BG_C14_V02_B01_W05">अनुष्ठाय</span> 
 	<span id="BG_C14_V02_B01_W06">इत्येतत्</span> , 
@@ -33154,7 +33157,10 @@
 	<span id="BG_C14_V03_B01_W48">भारत</span> ॥ 
 </div>
 <div class="bhashya" id="BG_C14_V04_B01">
-	<span id="BG_C14_V04_B01_W01">देवपितृमनुष्यपशुमृगादिसर्वयोनिषु</span> 
+	<span id="BG_C14_V04_B01_W01">
+		<span id="BG_C14_V04_B01_W01">देवपितृमनुष्यपशुमृगादि</span>
+		<span id="BG_C14_V04_B01_W01">सर्वयोनिषु</span>
+	</span> 
 	<span id="BG_C14_V04_B01_W02">कौन्तेय</span>, 
 	<span id="BG_C14_V04_B01_W03">मूर्तयः</span> 
 	<span id="BG_C14_V04_B01_W04">देहसंस्थानलक्षणाः</span> 
@@ -33282,7 +33288,10 @@
 	<span id="BG_C14_V06_B01_W04">अनामयं</span> 
 	<span id="BG_C14_V06_B01_W05">निरुपद्रवं</span> 
 	<span id="BG_C14_V06_B01_W06">सत्त्वं</span> 
-	<span id="BG_C14_V06_B01_W07">तन्निबध्नाति</span> । 
+	<span id="BG_C14_V06_B01_W07">
+		<span id="BG_C14_V06_B01_W07_L01">तन्नि</span>
+		<span id="BG_C14_V06_B01_W07_L02">बध्नाति</span>
+	</span> । 
 	<span id="BG_C14_V06_B01_W08">कथम्</span> ? 
 	<span id="BG_C14_V06_B01_W09">सुखसङ्गेन</span> ‘
 	<span id="BG_C14_V06_B01_W10">सुखी</span> 
@@ -33494,7 +33503,10 @@
 	<span id="BG_C14_V10_B01_W29">कृष्यादि</span> 
 	<span id="BG_C14_V10_B01_W30">स्वकार्यम्</span> 
 	<span id="BG_C14_V10_B01_W31">आरभते</span> । 
-	<span id="BG_C14_V10_B01_W32">तमआख्यो</span> 
+	<span id="BG_C14_V10_B01_W32">
+		<span id="BG_C14_V10_B01_W32_L01">तम</span>
+		<span id="BG_C14_V10_B01_W32_L02">आख्यो</span>
+	</span> 
 	<span id="BG_C14_V10_B01_W33">गुणः</span> 
 	<span id="BG_C14_V10_B01_W34">सत्त्वं</span> 
 	<span id="BG_C14_V10_B01_W35">रजश्च</span> 
