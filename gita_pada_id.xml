@@ -36036,8 +36036,7 @@
 	<span id="BG_C16_V01_B01_W66">सर्वदा</span> ॥ 
 </div>
 <div class="intro_bhashya" id="BG_C16_I02">
-	<span id="BG_C16_I02_W01">किञ्च</span> 
-	—
+	<span id="BG_C16_I02_W01">किञ्च</span>— 
 </div>
 <div class="bhashya" id="BG_C16_V02_B01">
 	<span id="BG_C16_V02_B01_W01">अहिंसा</span> 
@@ -36848,7 +36847,10 @@
 	<span id="BG_C16_V18_B01_W38">क्रोधम्</span> 
 	<span id="BG_C16_V18_B01_W39">अनिष्टविषयम्</span> । 
 	<span id="BG_C16_V18_B01_W40">एतान्</span> 
-	<span id="BG_C16_V18_B01_W41">अन्यांश्च</span> 
+	<span id="BG_C16_V18_B01_W41">
+		<span id="BG_C16_V18_B01_W41_L01">अन्यां</span>
+		<span id="BG_C16_V18_B01_W41_L02">श्च</span>
+	</span> 
 	<span id="BG_C16_V18_B01_W42">महतो</span> 
 	<span id="BG_C16_V18_B01_W43">दोषान्</span> 
 	<span id="BG_C16_V18_B01_W44">संश्रिताः</span> । 
@@ -36893,7 +36895,10 @@
 	<span id="BG_C16_V19_B01_W18">अशुभकर्मकारिणः</span> 
 	<span id="BG_C16_V19_B01_W19">आसुरीष्वेव</span> 
 	<span id="BG_C16_V19_B01_W20">क्रूरकर्मप्रायासु</span> 
-	<span id="BG_C16_V19_B01_W21">व्याघ्रसिंहादियोनिषु</span> ‘
+	<span id="BG_C16_V19_B01_W21">
+		<span id="BG_C16_V19_B01_W21_L01">व्याघ्रसिंहादि</span>
+		<span id="BG_C16_V19_B01_W21_L02">योनिषु</span>
+	</span> ‘
 	<span id="BG_C16_V19_B01_W22">क्षिपामि</span>’ 
 	<span id="BG_C16_V19_B01_W23">इत्यनेन</span> 
 	<span id="BG_C16_V19_B01_W24">सम्बन्धः</span> ॥ 
@@ -37123,7 +37128,10 @@
 	<span id="BG_C16_V24_B01_W21">इत्येवंलक्षणम्</span> , 
 	<span id="BG_C16_V24_B01_W22">तेन</span> 
 	<span id="BG_C16_V24_B01_W23">उक्तं</span> 
-	<span id="BG_C16_V24_B01_W24">स्वकर्म</span> 
+	<span id="BG_C16_V24_B01_W24">
+		<span id="BG_C16_V24_B01_W24_L01">स्व</span>
+		<span id="BG_C16_V24_B01_W24_L02">कर्म</span>
+	</span> 
 	<span id="BG_C16_V24_B01_W25">यत्</span> 
 	<span id="BG_C16_V24_B01_W26">तत्</span> 
 	<span id="BG_C16_V24_B01_W27">कर्तुम्</span> 
